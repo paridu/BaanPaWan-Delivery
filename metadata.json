@@ -1,0 +1,7 @@
+{
+  "name": "BaanPaWan Delivery",
+  "description": "A premium neighborhood food delivery app with AI assistant and smart tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
